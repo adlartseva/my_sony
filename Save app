@@ -1,0 +1,57 @@
+ApplicationsProvider.apk
+AudioEffectService.apk - Функция xLOUD.
+CameraExtensionPermission.apk - Отвечает за камеру.
+CertInstaller.apk - Устанавливает сертификаты для приложений.
+ClockWigets.apk - Виджет часов.
+ContactsImport.apk - Импорт контактов.
+Conversations.apk - Смски.
+CoreNotificationPublisher.apk
+CustomizedSettings.apk
+DeskClockGoogle.apk
+DownloadProvider.apk - Обеспечивает загрузку файлов вручную и из Маркета.
+enhancedusbux.apk - Программа управления подключениями по USB.
+GenericApplicationInstaller.apk - Application installer service (обслуживание установщика программ).
+GmsCore.apk - Сервисы Google Play.
+GoogleBackupTransport.apk - Сохранение настроек и всего остального на серверах Гугла.
+GoogleContactsSyncAdapter.apk - Синхронизация контактов с аккаунтом гугла.
+GoogleLoginService.apk - Данное приложение отвечает не только за синхронизацию контактов и календаря, но и всего остального, связанного с учетной записью Google. Даже если вы ничего не синхронизируете, не стоит его удалять.
+GoogleServicesFramework.apk - Обеспечивает работу служб Google.
+Home.apk - Лаунчер.
+HTMLViewer.apk - Штатное приложение для просмотра локальных html-файлов и файлов справки многих программ.
+InfiniteView.apk - Штатный просмотр контактов от SE.
+LocalContacts.apk - Управление контактами.
+MediaProvider.apk - Необходим для доступа к медиафайлам.
+NetworkLocation.apk - Полу-точная симуляция GPS.
+NotificationProvider.apk
+PackageInstaller.apk - Обеспечивает установку приложений.
+Phone.apk
+Phonebook.apk - Штатная Телефонная книга.
+SemcCamera3D.apk - 3Д камера, после удаления - обычная камера продолжает работать.
+SemcCameraUI.apk - Интерфейс обычной камеры.
+SemcContactsProvider.apk - Хранилище контактов.
+SemcIllumination.apk
+SemcMetadataCleanup.apk - По идее это пункт в настройках для полного сброса.
+SemcPhotoEditor.apk - Редактор картинок. Если удалить, то нельзя будет изменить фон экрана блокировки.
+SemcSettings.apk - Настройки.
+SemcTelephonyProvider.apk - Dialer Storage (хранение номеронабирателя).
+ServiceMenu.apk - Сервисное меню.
+Settings.apk - Настройки.
+SettingsProvider.apk - Настройки.
+SimContacts.apk - Поддержка чтения контактов с симкарты.
+SmartSearch.apk - Т9 в стоковой звонилке, без нее она работает шустрее, но многие юзают.
+SNSNotificationReceiver.apk
+SoundEnhancement.apk - Кусок от какой-то функции по улучшению звука от Sony.
+SoundPicker.apk - Если удалить, то музыку на звонок ставить можно. Но вот мелодию стокового будильника поменять уже нельзя. Только звуки из папки alarm.
+SuperStamina.apk - Расширенный режим ожидания в меню батареи.
+SystemExUI.apk - Графический интерфейс системы. Шторка.
+SystemUI.apk - Графический интерфейс системы. Шторка.
+textinput-tng.apk - Стандартная клавиатура.
+ThemeManager.apk
+usb-mtp-update-wrapper.apk
+usb-mtp-vendor-extension-service.apk
+UseragentProvider.apk
+UserDictionaryProvider.apk - Пользовательский словарь для предугадывания слов при наборе.
+VoiceDialer.apk
+WapiCustomization.apk - WAP настройки.
+WapPush.apk - WAP push (для получения MMS) в свернутом режиме.
+WapPushManager.apk - Кусок WAP Push.
