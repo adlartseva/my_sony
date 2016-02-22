@@ -118,3 +118,11 @@ WikipediaPlugin.apk - Плагин википедии для стандартн�
 YouTube.apk - Ютуб.
 YouTubeKaraokePlugin.apk - Плагин ютуба караоке для стандартного плеера.
 YouTubePlugin.apk - Плагин для поиска песен на ютубе для стандартного плеера.
+
+system/etc/product/applications/ :
+EarthLiveWallpaper.apk
+NeoReader.apk
+OfficeSuitePro_SE_Viewer.apk
+PlayNowClientArvato.apk
+trackid.apk
+Twitter.apk
