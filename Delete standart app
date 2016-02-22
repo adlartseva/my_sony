@@ -1,0 +1,120 @@
+AccessoryKeyDispatcher.apk
+AddWidget.apk
+BackupRestoreConfirmation.apk - Системный компонент для визуализации подтверждения бэкапа или откат на бэкап.
+BlackThemeBlueAccent.apk Черная тема с голубым оттенком.
+Bluetooth.apk - Блютуз.
+bootinfo.apk - Информация о ядре (загрузчике?), неизвестно где прописана, удаляется без последствий.
+Browser.apk - Стандартный браузер.
+Calculator.apk
+CalendarProvider.apk - Синхронизация календаря в телефоне с аккаунтом Google.
+ChromeBookmarksSyncAdapter.apk - Синхронизация закладок.
+ChromeWithBrowser.apk - Гугл хром.
+CredentialManagerService.apk - Кусок Mobile Bravia Engine.
+CustomizationProvider.apk
+CustomizedApplicationInstaller.apk
+DefaultCapabilities.apk - Какие-то стандартные аппаратные возможности. Удалять не стал.
+DefaultContainerService.apk - Необходимо для установки приложений.
+DownloadProviderUi.apk - Приложение "Загрузки".
+DrmDialogs.apk - Цифровые ключи: Строки диалогов.
+DrmProvider.apk - Этот apk занимает немало памяти и всегда работает в фоне. Это один из самых "плохих" apk-шек, который не обеспечивает никакой функционал, а просто защищает от редактирования и копирования стандартные звуки.
+EventStream.apk - Кусок TimeScape.
+EventStreamPluginFacebook.apk - Кусок FaceBook.
+EventStreamPluginTwitter.apk - Кусок Twitter.
+Exchange.apk - Для корпоративной почты и стокового Email.
+FaceLock.apk - Функция определения вашего лица для блокировщика экрана.
+FBAndroid.apk
+FBCalendarSync.apk - Кусок FaceBook.
+FBMediaDiscovery.apk - Кусок FaceBook.
+FBMusicLike.apk - Кусок FaceBook.
+FBNotificationPublisher.apk
+FBSetupwizard.apk - Кусок FaceBook.
+FeedWidget.apk
+Galaxy4.apk - Обои.
+GenieWidget.apk - Виджет погоды и новостей.
+Gmail.apk - Гмейл.
+GMS_Maps.apk - Гугл мапс.
+GoogleCalendarSyncAdapter.apk - Синхронизация календаря с аккаунтом гугла.
+GoogleFeedback.apk - Гугловый отчет об использовании.
+GoogleLyricsPlugin.apk - Позволяет подгружать текст песен в стандартном аудиоплеере.
+GooglePartnerSetup.apk - Нужна для настройки аккаунта Gmail, не точно, удаляется без проблем.
+GoogleTTS.apk - Голосовой движок от Гугла.
+helpapp.apk - Справка.
+HoloSpiralWallpaper.apk - Обои.
+Initial-boot-setup.apk
+InputDevices.apk - Раскладки клавиатур, на стандартную никак не влияют.
+KeyChain.apk
+LiveWallpapers.apk - Обои.
+LiveWallpapersPicker.apk - Обои.
+LWM.apk
+MagicSmokeWallpapers.apk - Обои.
+MediaUploader.apk - Отвечает за загрузку изображений в picassa или facebook.
+MusicFX.apk - Кусок от стандартного плеера.
+MusicWidget.apk - Виджет стандартного плеера.
+NoiseField.apk - Обои.
+OemCryptoReceiver.apk
+OMAClientProvisioning.apk - Кусок TimeScape.
+OmaDatasyncService.apk
+OmaDownload.apk - Кусок TimeScape.
+OmaV1AgentDownloadServices.apk - Кусок TimeScape.
+OneTimeInitializer.apk
+OnOffTools.apk - Стандартный виджет управления WiFi и т.д.	
+OrangeTheme.apk - Оранжевая тема.
+PartnerBookmarksProvider.apk
+PhaseBeam.apk - Обои.
+Phonesky.apk
+PhotoWidget.apk - Виджет показа фотографий.
+PlusOne.apk - Гугл+.
+PostViewer.apk - Кусок фейсбука.
+Protips.apk
+Radio.apk - Радио.
+ReadyToRun.apk - Ссодержит дефолтные настройки точек доступа gprs и mms для большинства операторов нашей планеты, а также отправляет скрытое смс сониэрикам для регистрации телефона при первой вставке симки.
+RemoteControlService.apk - Вроде как удаленный доступ к телефону, удаляется без проблем.
+retaildemo.apk - Демонстрация возможностей телефона.
+SecureClockJava.apk - Часы веб-службы.
+SemcAlbum.apk - Стандартный альбом. Можно удалить, если есть замена.
+SemcCalendar.apk - Календарь.
+SemcDlna.apk - Сервер DLNA.
+SemcEmail.apk - Стоковый Email агент.
+SEMCFacebookProxy.apk - Кусок фейсбука.
+SemcMusic.apk - Стандартный плеер.
+SemcMusicVisualizer.apk - Визуализатор к стандартному плееру.
+SEMCSetupWizard.apk - Мастер первоначальной настройки.
+SemcVideo.apk - Стоковый видеоплеер. Можно удалить, если есть замена.
+SemcVideoEditor.apk - Стоковый видеоплеер. Можно удалить, если есть замена.
+SetupWizard.apk
+SharedStorageBackup.apk - Еще один кусок для бэкапов.
+ShutDownAnimation.apk
+smartcontacts.apk
+SocialEngineCore.apk - Часть от какой-то социалки.
+SocialEngineFacebookPlugin.apk - Кусок фейсбука.
+SocialEnginePicasaPlugin.apk - Кусок picasa
+SocialPane-Apps.apk - Кусок от TimeScape.
+SocialPane-FriendsWidget.apk - Кусок от TimeScape.
+SocialPane-StatusWidget.apk - Кусок от TimeScape.
+SoundLevelAlert.apk - Окошко предупреждения при прослушивании громкой музыки с гарнитурой. Если удалить, то прибавить громкость в наушниках можно будет только вручную, проведя по экрану, кнопками не будет прибавляться больше определенного значения. Но можно удалять после того, как первый раз получите это окошко с предупреждением, оно больше не будет вылазить и громкость будет прибавляться нормально.
+SoundRecorder.apk - Диктофон.
+StartupFlagV2.apk
+Stk.apk - Меню SIM-карты.
+Storefront.apk - Виджет "Развлечения и загрузка".
+Street.apk - Google Street View.
+Sync.apk
+Talk.apk - Google Talk.
+talkback.apk - Специальные возможности для людей с ограниченными способностями.
+textinput-chn.apk - Китайская клавиатура.
+TimescapeSpline.apk - Кусок TimeScape.
+UpdateCenter.apk - Центр обновлений.
+Velvet.apk - Гугл поиск.
+VerifyCertificatesDummyAppApplication.apk
+VerifyCertificatesDummyAppMedia.apk
+VerifyCertificatesDummyAppPlatform.apk
+VerifyCertificatesDummyAppShared.apk
+VisualizationWallpapers.apk
+VoiceSearchStub.apk - Голосовой поиск.
+VpnDialogs.apk - Приложение для VPN.
+WallpaperPicker.apk - Установка обоев.
+WeatherWidget.apk - Виджет погоды.
+WidgetPicker.apk
+WikipediaPlugin.apk - Плагин википедии для стандартного плеера.
+YouTube.apk - Ютуб.
+YouTubeKaraokePlugin.apk - Плагин ютуба караоке для стандартного плеера.
+YouTubePlugin.apk - Плагин для поиска песен на ютубе для стандартного плеера.
