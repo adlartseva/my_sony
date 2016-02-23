@@ -1,0 +1,35 @@
+--Запрет на загрузку лаунчера из памяти--   #лучше не использовать
+ro.HOME_APP_ADJ=1
+
+--Сохранениу jpg в 100% качестве--
+ro.media.enc.jpg.quality=100
+
+--Отключение задержки звонка--
+ro.telephony.call_ring.delay=0
+
+--Оптимизация энергопотребения--
+wifi.supplicant_scan_interval=180
+pm.sleep_mode=1
+ro.ril.disable.power.collapse=0
+
+--Отключение иконки режима отладки в статусбаре--
+persist.adb.notify=0
+
+--Твики скорости сети--
+net.tcp.buffersize.default=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.wifi=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.umts=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.gprs=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.edge=4096,87380,256960,4096,16384,256960
+
+--Исправляем некоторые проблемы приложений--
+ro.kernel.android.checkjni=0
+
+--Активация подсветки аппаратных клавиш при включеном экране--
+ro.mot.buttonlight.timeout=0
+
+--Отключение загрузочной анимации для ускорения загрузки--
+debug.sf.nobootanimation=1
+
+--Вкл. аппаратное ускорение--
+debug.sf.hw=1
